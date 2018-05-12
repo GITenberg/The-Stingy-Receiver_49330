@@ -1,9 +1,13 @@
 _repo: The-Stingy-Receiver_49330
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Munsell, Fanny
     gutenberg_agent_id: '45265'
     url: http://www.gutenberg.org/2009/agents/45265
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Abbott, Eleanor Hallowell
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5556
     wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49330#The-Stingy-Receiver
 gutenberg_issued: '2015-06-29'
 gutenberg_type: Text
 identifiers:
